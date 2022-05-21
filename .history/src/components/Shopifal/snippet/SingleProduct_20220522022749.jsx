@@ -1,9 +1,12 @@
 import React from 'react';
 
-const SingleProduct = () => {
+const SingleProduct = (props) => {
+    
+    console.log();
+
     return (
         <div>
-            Single Product
+      
         </div>
     );
 };

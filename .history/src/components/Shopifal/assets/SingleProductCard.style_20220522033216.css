@@ -1,0 +1,15 @@
+.title_color{
+    color: #808080;
+    font-size: 1rem;
+}
+.price_text{
+    font-size: 2rem;
+}
+.display_flex{
+    display: flex;
+    justify-content: space-between;
+}
+.imageRatio{
+    mim-Height: 300px;
+    Max-width: 100%;
+}

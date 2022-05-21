@@ -1,0 +1,12 @@
+.product_grid{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-content: space-around;
+}
+.text-align-center{
+    text-align: center;
+    mb
+}
+.product_wrapper{
+    padding: 20px 0px;
+}
